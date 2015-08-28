@@ -1,7 +1,7 @@
 # General
 name: Minimal-Block
 description: "TIY Las Vegas Python Class<br/> Oct 2015"
-url: http://localhost:4000
+url: http://tiy-lv-python-2015-10.github.io/
 
 markdown: redcarpet
 highlighter: pygments
