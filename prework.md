@@ -55,7 +55,8 @@ After reading these articles, please fill out the following survey:
 We will be covering the fundamentals of Python in detail in our class, but having a shared vocabulary from the beginning is essential to us quickly jumping in.
 
 1. Join the [Python track on Treehouse](http://teamtreehouse.com/tracks/learn-python).
-1. Complete the Python Basics, Python Collections, and Object-Oriented Python sections. Further sections are optional and may not apply fully to the class.
+2. Complete the Python Basics, Python Collections, and Object-Oriented Python sections. Further sections are optional and may not apply fully to the class.
+3. Try some warmup exercises: [CodingBat](http://codingbat.com/python)
 
 ## Topic 3: The Command Line
 
