@@ -34,7 +34,7 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
 * Install XCode Command Line Tools
     1. Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
     1. You will have to register.
-    1. Look for "Command Line Tools (OS X 10.10) for Xcode - Xcode 6.2" and download them.
+    1. Look for "Command Line Tools (OS X 10.10) for Xcode - Xcode 7" and download them.
     1. Once downloaded, open the downloaded file by double-clicking on it. This should bring up a new window with a file that ends in .pkg. Double-click it and follow all the prompts.
 
 * Install Homebrew
